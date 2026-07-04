@@ -2,9 +2,7 @@
   <img src="Swiggy-Banner.jpg" alt="Swiggy SQL Project Banner" width="100%">
 </p>
 
-# 🍽️ Swiggy SQL Data Analysis
-
-![Swiggy](https://images.unsplash.com/photo-1633436375795-12b3b3398d9f?w=1200)
+                                   # 🍽️ Swiggy SQL Data Analysis
 
 ## 📌 Project Overview
 
@@ -81,7 +79,7 @@ Swiggy-SQL-Analysis/
 
 ## ▶️ How to Run
 
-1. Import the dataset into MySQL.
+1. Import the dataset into PostgreSQL.
 2. Create the required table.
 3. Load the CSV file.
 4. Execute the SQL scripts.
@@ -102,7 +100,7 @@ Swiggy-SQL-Analysis/
 
 ## 🛠️ Tools Used
 
-- MySQL
+- PostgreSQL
 - SQL
 - Git
 - GitHub
